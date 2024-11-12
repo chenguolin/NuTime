@@ -1,0 +1,8 @@
+setuptools
+termcolor
+tensorboard
+pyarrow
+pandas
+scikit-learn
+timm
+mne
