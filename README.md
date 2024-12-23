@@ -23,6 +23,7 @@ Feel free to contact me (chenguolin@stu.pku.edu.cn) or open an issue if you have
 
 
 ## 📢 News
+- **2024-12-23**: Check the latest repository under the Microsoft account: [microsoft/NuTime](https://github.com/microsoft/NuTime).
 - **2024-11-12**: Checkpoint of the self-supervised pretrained NuTime is released.
 - **2024-11-12**: Codes about data preprocessing, training, evaluation are released.
 - **2024-07-15**: It might take some time to clean the entire codebase for releasing, so we first provide the code about **window & mean & std embeddings**, which is the essential part of the proposed NuTime, at [here](./src/models/encoders/WindowNormEncoder.py).
